@@ -1,0 +1,6 @@
+.secret
+secret.json
+keys.json
+build/
+node_modules/
+contracts/artifacts/
